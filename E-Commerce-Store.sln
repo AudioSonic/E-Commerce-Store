@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{96AB0E2F-0B68-49C5-95C3-8CBAB7AA523F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D128792D-7CD9-457A-BA08-F216EB09D395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{F1E02E4B-44AF-4B96-9BDB-AB18A6976383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AB0E2F-0B68-49C5-95C3-8CBAB7AA523F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AB0E2F-0B68-49C5-95C3-8CBAB7AA523F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AB0E2F-0B68-49C5-95C3-8CBAB7AA523F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AB0E2F-0B68-49C5-95C3-8CBAB7AA523F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D128792D-7CD9-457A-BA08-F216EB09D395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D128792D-7CD9-457A-BA08-F216EB09D395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D128792D-7CD9-457A-BA08-F216EB09D395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D128792D-7CD9-457A-BA08-F216EB09D395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E02E4B-44AF-4B96-9BDB-AB18A6976383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E02E4B-44AF-4B96-9BDB-AB18A6976383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E02E4B-44AF-4B96-9BDB-AB18A6976383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E02E4B-44AF-4B96-9BDB-AB18A6976383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59098467-C9AD-4350-929F-FB089B6D628E}
+	EndGlobalSection
+EndGlobal
