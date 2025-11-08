@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\E-Commerce-Store\\E-Commerce-Store\\Core\\Core.csproj": {}
+    "D:\\GitHub\\E-Commerce-Store\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\E-Commerce-Store\\E-Commerce-Store\\Core\\Core.csproj": {
+    "D:\\GitHub\\E-Commerce-Store\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\E-Commerce-Store\\E-Commerce-Store\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\E-Commerce-Store\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\GitHub\\E-Commerce-Store\\E-Commerce-Store\\Core\\Core.csproj",
+        "projectPath": "D:\\GitHub\\E-Commerce-Store\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\E-Commerce-Store\\E-Commerce-Store\\Core\\obj\\",
+        "outputPath": "D:\\GitHub\\E-Commerce-Store\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Tools und SDKs\\NuGetPackages"
